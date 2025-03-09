@@ -11,5 +11,3 @@ Art, Music, Code: Demo Argenti
 Go visit [the itch page](https://demo-the-fox.itch.io/the-cruelty-of-time) for The Cruelty of time to play it.
 
 Arrow keys to move and advance dialogue.
-
-Unfortunately, I am not aware of a way to show the code for this game due to the engine it was made in.
